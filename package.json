@@ -1,0 +1,23 @@
+{
+  "name": "react_task1_ex1_work",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Firtch/react_task1_ex1_work.git"
+  },
+  "keywords": [
+    "js",
+    "simple"
+  ],
+  "author": "Firtch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Firtch/react_task1_ex1_work/issues"
+  },
+  "homepage": "https://github.com/Firtch/react_task1_ex1_work#readme"
+}
